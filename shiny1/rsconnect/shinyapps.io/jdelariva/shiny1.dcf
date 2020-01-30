@@ -1,0 +1,10 @@
+name: shiny1
+title:
+username:
+account: jdelariva
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1723332
+bundleId: 2760151
+url: https://jdelariva.shinyapps.io/shiny1/
+when: 1580273038.44367

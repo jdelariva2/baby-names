@@ -1,0 +1,12 @@
+name: Popularbabynames
+title: Popularbabynames
+username:
+account: jdelariva
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1723337
+bundleId: 2760154
+url: https://jdelariva.shinyapps.io/Popularbabynames/
+when: 1580273180.45817
+asMultiple: FALSE
+asStatic: FALSE
